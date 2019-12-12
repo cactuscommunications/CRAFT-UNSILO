@@ -13,7 +13,7 @@ The CoNLLU format represents the original source text sentence by sentence. A sp
 If you reconstruct the source text using only information from the CoNNL-U format you will not get an exact representation du to a variety of factors:
 
 - Not all pargraphs are annotated
-- Some paragraph annotations doesn't exist in the source document
+- Some paragraph annotations dont exist in the source document
 - A paragraph i presupposed to consist of two line feeds, sometimes a paragraph in the source document is more than two line feeds
 - Having more than a single space is not represented
 - Spaces directly at the beginning of a paragraph before the first word is not represented
