@@ -2531,7 +2531,6 @@
 5	Age	age	NOUN	NN	Number=Sing	2	nmod	_	SpaceAfter=No
 6	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
-# newpar id = 11532192-p33
 # sent_id = 95
 # text = Mean IOP ± SEM is shown for the indicated strain at different ages.
 1	Mean	mean	NOUN	NN	Number=Sing	2	compound	_	_
@@ -3670,7 +3669,6 @@
 13	strains	strain	NOUN	NNS	Number=Plur	3	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
-# newpar id = 11532192-p43
 # sent_id = 135
 # text = Mean IOP ± SEM is shown for the indicated strains at measurement during the light (open bars) or dark (filled bars) periods of the day.
 1	Mean	mean	NOUN	NN	Number=Sing	2	compound	_	_
@@ -3895,7 +3893,6 @@
 7	IOP	iop	NOUN	NN	Number=Sing	5	conj	_	SpaceAfter=No
 8	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
-# newpar id = 11532192-p48
 # sent_id = 144
 # text = There is no strong correlation between the average systolic blood pressure of each strain and the average IOP of that strain (R2 = 0.1).
 1	There	there	PRON	EX	AdvType=Ex	2	expl	_	_
@@ -4210,7 +4207,6 @@
 7	IOP	iop	NOUN	NN	Number=Sing	5	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	.	PunctType=Peri	5	punct	_	_
 
-# newpar id = 11532192-p53
 # sent_id = 157
 # text = Sequencing identified two alleles of Myoc in these mouse strains (see text).
 1	Sequencing	sequencing	NOUN	NN	Number=Sing	2	nsubj	_	_
@@ -4407,7 +4403,6 @@
 4	alterations	alteration	NOUN	NNS	Number=Plur	1	nmod	_	SpaceAfter=No
 5	.	.	PUNCT	.	PunctType=Peri	1	punct	_	_
 
-# newpar id = 11532192-p59
 # sent_id = 167
 # text = Mean IOP ± SEM is shown.
 1	Mean	mean	NOUN	NN	Number=Sing	2	compound	_	_
@@ -8174,7 +8169,6 @@
 17	cycle	cycle	NOUN	NN	Number=Sing	4	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
-# newpar id = 11532192-p98
 # sent_id = 314
 # text = The colony was monitored for specific pathogens by The Jackson Laboratory's routine surveillance program (see  for specific pathogens).
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_

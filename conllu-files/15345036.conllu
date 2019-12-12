@@ -2938,7 +2938,6 @@
 23	present	present	ADJ	JJ	Degree=Pos	8	conj	_	SpaceAfter=No
 24	.	.	PUNCT	.	PunctType=Peri	8	punct	_	_
 
-# newpar id = 15345036-p26
 # sent_id = 5265
 # text = In contrast, almost no alveoli or bronchioles were present in Ptdsr -/-  lungs, indicating a delay or arrest in lung sacculation and expansion.
 1	In	in	ADP	IN	_	2	case	_	_
@@ -3015,7 +3014,6 @@
 21	)	)	PUNCT	-RRB-	PunctSide=Fin|PunctType=Brck	20	punct	_	SpaceAfter=No
 22	.	.	PUNCT	.	PunctType=Peri	14	punct	_	_
 
-# newpar id = 15345036-p27
 # sent_id = 5268
 # text = Kidneys from Ptdsr+/+  embryos were well developed at E16.5, showing terminally differentiated glomeruli with Bowman's capsule and collecting tubules lined with cuboidal epithelial cells (Figure 3b).
 1	Kidneys	kidney	NOUN	NNS	Number=Plur	10	nsubj	_	_
@@ -13065,7 +13063,6 @@
 37	right	right	NOUN	NN	Number=Sing	34	dep	_	SpaceAfter=No
 38	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
-# newpar id = 15345036-p97
 # sent_id = 5567
 # text = The Ptdsr -/-  embryos show exencephaly (f) or prosencephalic hernia in the forebrain region (arrowhead, neonate 2; h), uni-or bilateral absence of the eyes (f,g and neonate 2 in h, and arrow, neonate 3 in h), an abnormal head shape with proboscis (g), edema (arrowheads in f and g), and general anemia (asterisk, neonate 3 in h).
 1	The	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
@@ -14673,7 +14670,6 @@
 42	staurosporine	staurosporine	NOUN	NN	Number=Sing	40	nmod	_	SpaceAfter=No
 43	.	.	PUNCT	.	PunctType=Peri	20	punct	_	_
 
-# newpar id = 15345036-p110
 # sent_id = 5619
 # text = Microscopic analysis (b,d) and quantification of the number of apoptotic cells phagocytosed by single macrophages and (f) calculation of the average number of cells phagocytosed per macrophage failed to reveal differences in the efficacy of removal of apoptotic cells between wild-type and Ptdsr -/-  FLDMs.
 1	Microscopic	microscopic	ADJ	JJ	Degree=Pos	2	amod	_	_

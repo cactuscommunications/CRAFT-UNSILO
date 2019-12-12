@@ -4468,7 +4468,6 @@
 11	alignment	alignment	NOUN	NN	Number=Sing	5	nmod	_	_
 12	.	.	PUNCT	.	PunctType=Peri	5	punct	_	_
 
-# newpar id = 14723793-p57
 # sent_id = 2324
 # text = Multiple programs including BCM Search Launcher , ProfileScan , sequence motif search , ExPASy  and 3Dpssm  were used for searching sequence features of known protein.
 1	Multiple	multiple	ADJ	JJ	Degree=Pos	2	amod	_	_

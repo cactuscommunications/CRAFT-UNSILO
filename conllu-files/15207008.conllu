@@ -4482,7 +4482,6 @@
 29	proteins	proteins	NOUN	NN	Number=Sing	19	nmod	_	SpaceAfter=No
 30	.	.	PUNCT	.	PunctType=Peri	12	punct	_	_
 
-# newpar id = 15207008-p35
 # sent_id = 3869
 # text = For regions with low sequence similarity in T. rubripes, genomic sequences  from the fresh water pufferfish, Tetraodon nigroviridis were used as additional means to verify the predicted exons.
 1	For	for	ADP	IN	_	2	case	_	_
@@ -8657,7 +8656,6 @@
 24	proteins	proteins	NOUN	NN	Number=Sing	14	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	.	PunctType=Peri	7	punct	_	_
 
-# newpar id = 15207008-p61
 # sent_id = 3990
 # text = For regions with low sequence similarity, genomic sequences  from the fresh water pufferfish, Tetraodon nigroviridis were used as additional means to verify the predicted exons.
 1	For	for	ADP	IN	_	2	case	_	_

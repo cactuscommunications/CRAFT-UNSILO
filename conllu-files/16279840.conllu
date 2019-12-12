@@ -12382,7 +12382,7 @@
 
 # newpar id = 16279840-p112
 # sent_id = 12977
-# text = MedlinePlus has several Web pages of information on Alzheimer disease:  http://www.nlm.nih.gov/medlineplus/alzheimersdisease.html
+# text = MedlinePlus has several Web pages of information on Alzheimer disease:
 1	MedlinePlus	medlineplus	PROPN	NNP	Number=Sing	2	nsubj	_	_
 2	has	have	VERB	VBZ	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	several	several	ADJ	JJ	Degree=Pos	5	amod	_	_
@@ -12394,11 +12394,15 @@
 9	Alzheimer	alzheimer	PROPN	NNP	Number=Sing	10	compound	_	_
 10	disease	disease	NOUN	NN	Number=Sing	7	nmod	_	SpaceAfter=No
 11	:	:	PUNCT	:	_	5	punct	_	_
-12	http://www.nlm.nih.gov/medlineplus/alzheimersdisease.html	#hlink#	NOUN	NN	Number=Sing	5	dep	_	_
+
+# newpar id = 16279840-p113
+# sent_id = 12977
+# text = http://www.nlm.nih.gov/medlineplus/alzheimersdisease.html
+1	http://www.nlm.nih.gov/medlineplus/alzheimersdisease.html	#hlink#	NOUN	NN	Number=Sing	5	dep	_	_
 
 # newpar id = 16279840-p114
 # sent_id = 12978
-# text = The ADEAR Center of the US Government's National Institute on Aging also has information on Alzheimer disease:  http://www.alzheimers.org/
+# text = The ADEAR Center of the US Government's National Institute on Aging also has information on Alzheimer disease:
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_
 2	ADEAR	adear	PROPN	NNP	Number=Sing	3	compound	_	_
 3	Center	center	PROPN	NNP	Number=Sing	14	nsubj	_	_
@@ -12418,11 +12422,15 @@
 17	Alzheimer	alzheimer	PROPN	NNP	Number=Sing	18	compound	_	_
 18	disease	disease	NOUN	NN	Number=Sing	15	nmod	_	SpaceAfter=No
 19	:	:	PUNCT	:	_	15	punct	_	_
+
+# newpar id = 16279840-p115
+# sent_id = 12978
+# text = http://www.alzheimers.org/
 20	http://www.alzheimers.org/	#hlink#	NOUN	NN	Number=Sing	15	dep	_	_
 
 # newpar id = 16279840-p116
 # sent_id = 12979
-# text = The Alzheimer's Association Web site contains information on both caregiving and research:  http://www.alz.org
+# text = The Alzheimer's Association Web site contains information on both caregiving and research:
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	Alzheimer	alzheimer	PROPN	NNP	Number=Sing	4	nmod:poss	_	SpaceAfter=No
 3	's	's	PART	POS	Poss=Yes	2	case	_	_
@@ -12437,7 +12445,11 @@
 12	and	and	CCONJ	CC	_	11	cc	_	_
 13	research	research	NOUN	NN	Number=Sing	11	conj	_	SpaceAfter=No
 14	:	:	PUNCT	:	_	7	punct	_	_
-15	http://www.alz.org	#hlink#	NOUN	NN	Number=Sing	7	parataxis	_	_
+
+# newpar id = 16279840-p116
+# sent_id = 12979
+# text = http://www.alz.org
+1	http://www.alz.org	#hlink#	NOUN	NN	Number=Sing	7	parataxis	_	_
 
 # newpar id = 16279840-p117
 # sent_id = 12980
